@@ -11,5 +11,10 @@ public class Main {
         button.render();
         checkBox.render();
         textEdit.render();
+
+        int a = 48;
+        String b = Integer.toString(a);
+        System.out.println(a);
+        System.out.println(b);
     }
 }
